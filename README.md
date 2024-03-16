@@ -7,8 +7,10 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-- ![Screenshot 2023-03-10 at 3 18 17 PM](https://user-images.githubusercontent.com/62019551/224314212-22edcb5c-9bb7-4200-9243-6299b41e5fff.png)
-- ![Screenshot 2023-03-10 at 3 19 12 PM](https://user-images.githubusercontent.com/62019551/224314464-241b4b6e-e902-40d0-aafa-8efe357c73fa.png)
+- ![Screenshot from 2024-03-16 14-19-33](https://github.com/AmonCheruiyot/portfolio/assets/161847144/67b518cd-e749-4e96-aaf1-c3108d8418dd)
+- ![Screenshot from 2024-03-16 14-23-45](https://github.com/AmonCheruiyot/portfolio/assets/161847144/b665a58a-6b80-4091-8820-9e0ffbe34e67)
+![Screenshot from 2024-03-16 14-26-30](https://github.com/AmonCheruiyot/portfolio/assets/161847144/eeebcb61-b7fb-4392-9dce-70de609a8399)
+![Screenshot from 2024-03-16 14-27-44](https://github.com/AmonCheruiyot/portfolio/assets/161847144/99ac413a-c7fa-4952-bb09-20b7a771056e)
 
 
 
