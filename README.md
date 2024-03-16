@@ -9,7 +9,8 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ## SCREENSHOTS
 - ![Screenshot from 2024-03-16 14-19-33](https://github.com/AmonCheruiyot/portfolio/assets/161847144/67b518cd-e749-4e96-aaf1-c3108d8418dd)
 - ![Screenshot from 2024-03-16 14-23-45](https://github.com/AmonCheruiyot/portfolio/assets/161847144/b665a58a-6b80-4091-8820-9e0ffbe34e67)
-![Screenshot from 2024-03-16 14-26-30](https://github.com/AmonCheruiyot/portfolio/assets/161847144/eeebcb61-b7fb-4392-9dce-70de609a8399)
+![Screenshot from 2024-03-16 15-09-33](https://github.com/AmonCheruiyot/portfolio/assets/161847144/d3d8dc88-c96e-4f17-b4d7-a0adac657f9c)
+
 ![Screenshot from 2024-03-16 14-27-44](https://github.com/AmonCheruiyot/portfolio/assets/161847144/99ac413a-c7fa-4952-bb09-20b7a771056e)
 
 
