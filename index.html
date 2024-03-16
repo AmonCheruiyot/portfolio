@@ -1,23 +1,113 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./index.css">
-    <title>My portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="index.css" />
+    <script src="https://kit.fontawesome.com/12352940bf.js" crossorigin="anonymous"></script>
+    <title>My Portfolio</title>
 </head>
-<body>
-    <section>
-        <header>
-            <a href="#" class="logo"></a>
-            <ul class="navbar"></ul>
-        </header>
-        <div class="container"></div>
-        <h2>AMK, <br">
-        </h2>
-        <h2 class="name">Am Amon Kiprotich</h2>
-        <p>Am a passionate technophile</p>
-    </section>
 
+<body>
+    <canvas class="background"></canvas>
+
+    <div class="hero">
+    
+        <div class="logo">
+            <img src="./logo_trial.png" alt="logo">
+        </div>
+        <nav>
+
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#Education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#Testimonials">Testimonials</a></li>
+                <li><a href="#Contacts">Contacts</a></li>
+            </ul>
+        </nav>
+        <div class="me">
+            <h4>Hello, my name is,</h4>
+            <h1>Amon Kiprotich</h1>
+            <h3>I'm a passionate technophile</h3>
+        </div>
+    </div>
+    <!--------MY SKILLS-------->
+    <div class="Education" id="Education">
+        <div class="title">
+            <h2>Education</h2>
+        </div>
+        <div class="Education">
+            <p>I am a graduate of moringa school where i
+                completed my course as a fullstack developer, software engineer
+                and app developer.
+            </p>
+            <p>I also have graduated in software engineering with a degree, from KCA University</p>
+        </div>
+
+    </div>
+
+    <div class="skills" id="skills">
+        <div class="title">
+            <h2>My Skills</h2>
+        </div>
+
+        <div class="card-box">
+            <div class="card">
+                <i class="fa fa-desktop"></i>
+                <h5>Web Development</h5>
+                <div class="web">
+                    <p>I build my websites considering the current trends and i
+                        ensure that i deliver nothing but the best.
+                    </p>
+                    <p><a class="button" href="#">Read More</a></p>
+                </div>
+            </div>
+            <div class="card">
+                <i class="fa fa-gears"></i>
+                <h5>Dev Ops</h5>
+                <div class="web">
+                    <p>I build my websites considering the current trends and i
+                        ensure that i deliver nothing but the best.
+                    </p>
+                    <p><a class="button" href="#">Read More</a></p>
+                </div>
+            </div>
+            <div class="card">
+                <i class="fa fa-users-gear"></i>
+                <h5>UI/UX</h5>
+                <div class="web">
+                    <p>I build my websites considering the current trends and i
+                        ensure that i deliver nothing but the best.
+                    </p>
+                    <p><a class="button" href="#">Read More</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="Testimonials" id="Testimonials">
+        <div class="title">
+            <h2>Testimonials</h2>
+        </div>
+        <div class="Testimonials">
+            <p>Working with Amon Kiprotich is an absolute pleasure. His technical expertise, attention to detail, and problem-solving skills are truly impressive. He consistently delivers high-quality code and solutions, and always went above and beyond to ensure projects are a success. I would highly recommend working with him for any software development needs.
+            </p>
+        </div>
+    </div>
+    <div class="Contact Me" id="Contacts">
+        <div class="title">
+            <h2>Contacts</h2>
+        </div>
+        <div class="Contacts">
+            <p>Email : kiprotichamon03@gmail.com</p>
+            <p>Phone <No:>+254713702378</No:></p>
+        </div>
+    </div>
+    <script src="index.js"></script>
 </body>
+
 </html>
